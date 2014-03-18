@@ -1,0 +1,2 @@
+Need to be able to add proxy parameters for the HTTP client so that applications implementing this Luting-Mandrill API
+can still work when they are behind a proxy.
